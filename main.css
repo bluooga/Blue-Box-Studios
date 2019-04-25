@@ -3,5 +3,9 @@ background: purple;
 }
 
 .nav ul{
+ color: white;
+}
+
+.nav li{
  display: inline-blocks; 
 }
