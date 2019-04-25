@@ -7,8 +7,8 @@ background: purple;
 }
 
 .nav li{
- float: right;
- padding-left: 1rem;
+ padding-top: 24px;
+ padding-left:1rem;
  display: inline-block;
  
 }
