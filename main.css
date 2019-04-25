@@ -1,3 +1,7 @@
 .nav{
 background: purple;
 }
+
+.nav ul{
+ display: inline-blocks; 
+}
