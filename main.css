@@ -9,6 +9,7 @@ background: purple;
 .nav li{
  padding-top: 24px;
  padding-left:1rem;
+ font-style: Bold;
  display: inline-block;
  
 }
