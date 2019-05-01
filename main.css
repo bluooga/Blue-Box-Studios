@@ -3,15 +3,15 @@ body{
  font-weight: bold;
 }
 
-.nav{
+.Container{
 background: purple;
 }
 
-.nav ul{
+nav ul{
  color: white;
 }
 
-.nav li{
+nav li{
  font-size: 36px;
  padding-top: 24px;
  padding-left:1rem;
